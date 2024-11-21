@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    
+    nav a {
+        display: block;
+        margin: 10px 0;
+    }
+}
